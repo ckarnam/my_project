@@ -1,3 +1,3 @@
 # project1
 
-This project is created to test Git GprahQL APIs
+This project is created to test Git GprahQL API
